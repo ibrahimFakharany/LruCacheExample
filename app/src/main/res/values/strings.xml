@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LruCacheExample</string>
+    <string name="push_item">Emit Json</string>
+</resources>
